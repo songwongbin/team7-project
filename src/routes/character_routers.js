@@ -4,7 +4,9 @@
 // const router = express.Router();
 
 // // 강화 라우터
-// router.patch("/api/users/:key/agents/intensify");
+// router.patch("/api/users/:key/agents/intensify", async(req,res) => {
+
+// })
 
 // const { key } = req.params;
 // const { agentkey } = req.body;
